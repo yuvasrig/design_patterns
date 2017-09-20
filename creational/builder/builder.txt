@@ -1,0 +1,10 @@
+Problem/requirement:
+
+To use a design pattern, we need to go through a mini analysis design that
+may be coded to test out the solution. This section states the requirements
+of the problem we want to solve. This is usually a common problem that will
+occur in more than one application.
+
+Courtesy: 
+
+https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns#Programming_Patterns
